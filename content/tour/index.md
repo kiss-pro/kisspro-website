@@ -1,54 +1,33 @@
 ---
-title: Tour
-date: 2022-10-24
-
+# Page title
+title: Projekte
+# Page type - we want a landing page (such as a homepage)
 type: landing
 
+# Your landing page sections - add as many different content blocks as you like
 sections:
-  - block: slider
+  - block: markdown
+    id: section-1
     content:
-      slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
-        align: center
-        background:
-          image:
-            filename: coders.jpg
-            filters:
-              brightness: 0.7
-          position: right
-          color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
-        align: left
-        background:
-          image:
-            filename: contact.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
-        align: right
-        background:
-          image:
-            filename: welcome.jpg
-            filters:
-              brightness: 0.5
-          position: center
-          color: '#333'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
-    design:
-      # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: ''
-      is_fullscreen: true
-      # Automatically transition through slides?
-      loop: false
-      # Duration of transition between slides (in ms)
-      interval: 2000
+      title: AP1
+      subtitle: A subtitle
+      text: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
+  - block: markdown
+    id: section-2
+    content:
+      title: AP2
+      subtitle: A subtitle
+      text: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
+  - block: markdown
+    id: section-3
+    content:
+      title: AP3
+      subtitle: A subtitle
+      text: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
+  - block: markdown
+    id: section-4
+    content:
+      title: AP4
+      subtitle: A subtitle
+      text: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
 ---
