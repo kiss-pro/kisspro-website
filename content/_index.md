@@ -10,7 +10,7 @@ sections:
       title: |
         KISSPro
       image:
-        filename: welcome.jpg
+        filename: example_pic.png
       text: |
         <br>
         
