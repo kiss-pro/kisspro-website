@@ -17,6 +17,10 @@ sections:
           - Administration
           - Visitors
           - Alumni
+          - FernUniversität in Hagen
+          - Universität Potsdam
+          - Stiftung Universität Hildesheim
+          - IPN - Leibnitz-Institut für die Padagogik in Naturwissenschaften und Mathematik
       sort_by: Params.last_name
       sort_ascending: true
     design:

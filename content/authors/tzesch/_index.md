@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Jeanette Bewersdorff
+title: Prof. Dr. Torsten Zesch
 
 # Full Name (for SEO)
-first_name: Jeanette
-last_name: Bewersdorff
+first_name: Torsten
+last_name: Zesch
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Doctoral Student
+role: Professor for Computational Linguistics
 
 # Organizations/Affiliations
 organizations:
