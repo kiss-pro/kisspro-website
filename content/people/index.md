@@ -16,9 +16,11 @@ sections:
           - Grad Students
           - Administration
           - FernUniversität in Hagen
-          - Universität Potsdam
+          - IPN - Leibnitz-Institut für die Pädagogik in Naturwissenschaften und Mathematik
           - Stiftung Universität Hildesheim
-          - IPN - Leibnitz-Institut für die Padagogik in Naturwissenschaften und Mathematik
+          - Universität Potsdam
+          
+          
       sort_by: Params.last_name
       sort_ascending: true
     design:

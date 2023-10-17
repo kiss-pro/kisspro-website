@@ -14,7 +14,7 @@ role: Example Role
 
 # Organizations/Affiliations
 organizations:
-  - name: IPN - Leibnitz-Institut für die Padagogik in Naturwissenschaften und Mathematik
+  - name: IPN - Leibnitz-Institut für die Pädagogik in Naturwissenschaften und Mathematik
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -69,7 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - IPN - Leibnitz-Institut für die Padagogik in Naturwissenschaften und Mathematik
+  - IPN - Leibnitz-Institut für die Pädagogik in Naturwissenschaften und Mathematik
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
