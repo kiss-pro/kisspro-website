@@ -15,8 +15,6 @@ sections:
           - Researchers
           - Grad Students
           - Administration
-          - Visitors
-          - Alumni
           - FernUniversität in Hagen
           - Universität Potsdam
           - Stiftung Universität Hildesheim
