@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Prof. Dr. Torsten Zesch
+title: Beispiel IPN
 
 # Full Name (for SEO)
-first_name: Torsten
-last_name: Zesch
+first_name: Beispiel
+last_name: IPN
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor for Computational Linguistics
+role: Example Role
 
 # Organizations/Affiliations
 organizations:
-  - name: FernUniversität in Hagen
+  - name: IPN - Leibnitz-Institut für die Padagogik in Naturwissenschaften und Mathematik
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include natural language programming, artificial intelligence and data visualization.
+bio: My research interests include .....
 
 interests:
   - Artificial Intelligence
@@ -29,13 +29,13 @@ education:
   courses:
     - course: PhD student Computational Linguistics
       institution: FernUniversität in Hagen
-      year: since 2021
+      year: xxx
     - course: MSc in Computer Science
       institution: University of Duisburg-Essen
-      year: 2021
+      year: xxx
     - course: BSc in Computer Science
       institution: University of Duisburg-Essen
-      year: 2018
+      year: xxx
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -69,8 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - FernUniversität in Hagen
+  - IPN - Leibnitz-Institut für die Padagogik in Naturwissenschaften und Mathematik
 ---
-
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
