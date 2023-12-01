@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: people
     content:
-      title: Meet the Team
+      title: Team
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
@@ -15,10 +15,11 @@ sections:
           - Researchers
           - Grad Students
           - Administration
+          - Universität Potsdam
           - FernUniversität in Hagen
           - IPN - Leibnitz-Institut für die Pädagogik in Naturwissenschaften und Mathematik
           - Stiftung Universität Hildesheim
-          - Universität Potsdam
+          
           
           
       sort_by: Params.last_name
