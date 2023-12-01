@@ -8,7 +8,7 @@ name = "KISSProTheme"
   # Menu
   menu_primary = "#ff3859"
   menu_text = "#000000"
-  menu_text_active = "#111342"
+  menu_text_active = "#17246b"
   menu_title = "#000000"
 
   # Home sections
