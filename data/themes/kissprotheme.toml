@@ -8,8 +8,8 @@ name = "KISSProTheme"
   # Menu
   menu_primary = "#ff3859"
   menu_text = "#000000"
-  menu_text_active = "#2962ff"
-  menu_title = "#2b2b2b"
+  menu_text_active = "#111342"
+  menu_title = "#000000"
 
   # Home sections
   home_section_odd = "rgb(255, 255, 255)"
