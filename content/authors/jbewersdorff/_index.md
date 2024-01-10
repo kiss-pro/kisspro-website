@@ -10,7 +10,7 @@ last_name: Bewersdorff
 superuser: false
 
 # Role/position
-role: Doctoral Student
+role: Doktorand*in
 
 # Organizations/Affiliations
 organizations:

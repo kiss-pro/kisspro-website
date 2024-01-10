@@ -10,7 +10,7 @@ last_name: Zesch
 superuser: false
 
 # Role/position
-role: Professor for Computational Linguistics
+role: Professor*in für Computational Linguistics
 
 # Organizations/Affiliations
 organizations:
