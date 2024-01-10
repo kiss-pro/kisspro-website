@@ -15,7 +15,7 @@ sections:
   - block: markdown
     id: section-1
     content:
-      title: AP1
+      title: *Arbeitspaket 1* Vorbereitung der Integration von NLP-generierten Feedbacksystemen in den schulischen Kontext
       subtitle: A subtitle
       text: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
   - block: markdown
