@@ -11,7 +11,6 @@ superuser: false
 
 # Role/position
 role: Doktorand*in
-role: jeanette.bewersdorff@fernuni-hagen.de
 
 # Organizations/Affiliations
 organizations:
@@ -20,6 +19,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include natural language programming, artificial intelligence and data visualization.
+contact: jeanette.bewersdorff@fernuni-hagen.de
 
 interests:
   - Artificial Intelligence
@@ -42,10 +42,10 @@ education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'jeanette.bewersdorff@fernuni-hagen.de'
+#social:
+#  - icon: envelope
+#    icon_pack: fas
+#    link: 'jeanette.bewersdorff@fernuni-hagen.de'
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
