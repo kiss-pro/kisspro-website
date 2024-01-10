@@ -11,6 +11,7 @@ superuser: false
 
 # Role/position
 role: Doktorand*in
+role: jeanette.bewersdorff@fernuni-hagen.de
 
 # Organizations/Affiliations
 organizations:
