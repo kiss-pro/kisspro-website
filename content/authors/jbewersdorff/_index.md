@@ -18,9 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include natural language programming, artificial intelligence and data visualization.
-
-Ich bin erreichbar unter jeanette.bewersdorff@fernuni-hagen.de.
+#bio: My research interests include natural language programming, artificial intelligence and data visualization.
 
 interests:
   - Artificial Intelligence
