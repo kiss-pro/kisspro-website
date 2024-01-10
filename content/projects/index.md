@@ -16,24 +16,24 @@ sections:
     id: section-1
     content:
       title: Vorbereitung der Integration von NLP-generierten Feedbacksystemen in den schulischen Kontext
-      subtitle: Arbeitspaket 1
-      text: <p style="text-align: center;">Leitung Prof. Dr. Steve Nebel und Prof. Dr. Torsten Zesch</p>
+      subtitle: Arbeitspaket 1, Leitung Prof. Dr. Steve Nebel und Prof. Dr. Torsten Zesch
+      text: 
   - block: markdown
     id: section-2
     content:
       title: Entwicklung von Professionalisierungskonzepten für die kompetente Nutzung KI-basierter Systeme in der Schule
-      subtitle: Arbeitspaket 2
-      text: Leitung Prof. Dr. Katrin Böhme
+      subtitle: Arbeitspaket 2, Leitung Prof. Dr. Katrin Böhme
+      text: 
   - block: markdown
     id: section-3
     content:
       title: Entwicklung konkreter Nutzungsperspektiven von KI-basierten Systemen im Fachunterricht
-      subtitle: Arbeitspaket 3
-      text: Leitung Prof. Dr. Olaf Köller
+      subtitle: Arbeitspaket 3, Leitung Prof. Dr. Olaf Köller
+      text: 
   - block: markdown
     id: section-4
     content:
       title: Modelle für die Entwicklung nachhaltiger Strukturen in Schulorganisation und Kollegien für die schulische Nutzung von KI und Bereitstellung von OER zur Lehrkräfteprofessionalisierung
-      subtitle: Arbeitspaket 4
-      text: Leitung Prof. Dr. Olaf Köller und Prof. Dr. Katrin Böhme
+      subtitle: Arbeitspaket 4, Leitung Prof. Dr. Olaf Köller und Prof. Dr. Katrin Böhme
+      text: 
 ---
