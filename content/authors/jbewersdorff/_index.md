@@ -15,7 +15,7 @@ role: Doktorand*in
 # Organizations/Affiliations
 organizations:
   - name: FernUniversität in Hagen
-    url: ''
+    url: 'jeanette.bewersdorff@fernuni-hagen.de'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include natural language programming, artificial intelligence and data visualization.
@@ -61,7 +61,7 @@ education:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'jeanette.bewersdorff@fernuni-hagen.de'
+email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
