@@ -1,5 +1,5 @@
 ---
-title: Auftakttreffen des Verbundsprojekts in Potsdamm
+title: Auftakttreffen des Verbundprojekts in Potsdamm
 date: 2023-09-11
 ---
 
