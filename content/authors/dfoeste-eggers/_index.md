@@ -16,7 +16,6 @@ role: Example Role
 organizations:
   - name: Stiftung Universität Hildesheim
     url: ''
-  - name: foesteeggers@uni-hildesheim.de
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include .....
