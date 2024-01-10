@@ -36,4 +36,10 @@ sections:
       title: Modelle für die Entwicklung nachhaltiger Strukturen in Schulorganisation und Kollegien für die schulische Nutzung von KI und Bereitstellung von OER zur Lehrkräfteprofessionalisierung
       subtitle: Arbeitspaket 4, Leitung Prof. Dr. Olaf Köller und Prof. Dr. Katrin Böhme
       text: 
+        - block: markdown
+    id: section-5
+    content:
+      title: 
+      subtitle: Bei Fragen zu den Arbeitspaketen kontaktieren Sie gerne unsere Projektkoordinatorin Sarah Bormann.
+      text: 
 ---
