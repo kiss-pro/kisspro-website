@@ -15,25 +15,24 @@ sections:
   - block: markdown
     id: section-1
     content:
-      title: *Arbeitspaket 1* Vorbereitung der Integration von NLP-generierten Feedbacksystemen in den schulischen Kontext
-      subtitle: A subtitle
-      text: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
+      title: Vorbereitung der Integration von NLP-generierten Feedbacksystemen in den schulischen Kontext
+      subtitle: Arbeitspaket 1
+      text: Leitung Prof. Dr. Steve Nebel und Prof. Dr. Torsten Zesch
   - block: markdown
     id: section-2
     content:
-      title: AP2
-      subtitle: A subtitle
-      text: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
+      title: Entwicklung von Professionalisierungskonzepten für die kompetente Nutzung KI-basierter Systeme in der Schule
+      subtitle: Arbeitspaket 2
+      text: Leitung Prof. Dr. Katrin Böhme
   - block: markdown
     id: section-3
     content:
-      title: AP3
-      subtitle: A subtitle
-      text: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
+      title: Entwicklung konkreter Nutzungsperspektiven von KI-basierten Systemen im Fachunterricht
+      subtitle: Arbeitspaket 3
+      text: Leitung Prof. Dr. Olaf Köller
   - block: markdown
     id: section-4
     content:
-      title: AP4
-      subtitle: A subtitle
-      text: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
----
+      title: Modelle für die Entwicklung nachhaltiger Strukturen in Schulorganisation und Kollegien für die schulische Nutzung von KI und Bereitstellung von OER zur Lehrkräfteprofessionalisierung
+      subtitle: Arbeitspaket 4
+      text: Leitung Prof. Dr. Olaf Köller und Prof. Dr. Katrin Böhme
