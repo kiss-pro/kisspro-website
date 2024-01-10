@@ -17,7 +17,7 @@ sections:
     content:
       title: Vorbereitung der Integration von NLP-generierten Feedbacksystemen in den schulischen Kontext
       subtitle: Arbeitspaket 1
-      text: Leitung Prof. Dr. Steve Nebel und Prof. Dr. Torsten Zesch
+      text: <p style="text-align: center;">Leitung Prof. Dr. Steve Nebel und Prof. Dr. Torsten Zesch</p>
   - block: markdown
     id: section-2
     content:
