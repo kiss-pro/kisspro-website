@@ -14,7 +14,7 @@ role: Example Role
 
 # Organizations/Affiliations
 organizations:
-  - name: IPN - Leibnitz-Institut für die Pädagogik in Naturwissenschaften und Mathematik
+  - name: IPN - Leibniz-Institut für die Pädagogik der Naturwissenschaften und Mathematik
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
