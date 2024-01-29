@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Prof. Dr. Kathrin Böhme
+title: Prof. Dr. Katrin Böhme
 
 # Full Name (for SEO)
 first_name: Katrin
