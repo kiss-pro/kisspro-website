@@ -3,7 +3,7 @@
 title: Prof. Dr. Kathrin Böhme
 
 # Full Name (for SEO)
-first_name: Kathrin
+first_name: Katrin
 last_name: Böhme
 
 # Is this the primary user of the site?
