@@ -10,7 +10,7 @@ last_name: Zesch
 superuser: false
 
 # Role/position
-role: Professor*in für Computational Linguistics
+role: Professor 'Computational Linguistics'
 
 # Organizations/Affiliations
 organizations:
@@ -25,18 +25,6 @@ interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Visualization
-
-education:
-  courses:
-    - course: PhD student Computational Linguistics
-      institution: FernUniversität in Hagen
-      year: since 2021
-    - course: MSc in Computer Science
-      institution: University of Duisburg-Essen
-      year: 2021
-    - course: BSc in Computer Science
-      institution: University of Duisburg-Essen
-      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -73,5 +61,4 @@ user_groups:
   - FernUniversität in Hagen
 ---
 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Torsten Zesch is Research Professor of Computational Linguistics at the Center of Advanced Technology for Assisted Learning and Predictive Analytics (CATALPA) at the FernUniversität in Hagen, Germany. His research interests focus on natural language processing in education, in particular on how teaching and learning processes can be supported by language technology and AI. To this end, he develops methods for the automatic analysis of (multimodal) speech data with a focus on robust and explainable models.
