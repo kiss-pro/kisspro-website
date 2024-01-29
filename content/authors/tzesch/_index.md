@@ -19,7 +19,7 @@ organizations:
   - name: torsten.zesch@fernuni-hagen.de
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include natural language programming, artificial intelligence and data visualization.
+bio: Unterstützung von Lehr- und Lernprozessen durch Sprachtechnologie und KI
 
 interests:
   - Computerlinguistik
