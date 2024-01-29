@@ -18,7 +18,7 @@ sections:
           - Administration
           - Universität Potsdam
           - FernUniversität in Hagen
-          - IPN - Leibniz-Institut für die Pädagogik der Naturwissenschaften und Mathematik
+          - IPN - Leibnitz-Institut für die Pädagogik in Naturwissenschaften und Mathematik
           - Stiftung Universität Hildesheim
           
           
