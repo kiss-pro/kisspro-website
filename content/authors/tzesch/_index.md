@@ -22,9 +22,8 @@ organizations:
 bio: My research interests include natural language programming, artificial intelligence and data visualization.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Visualization
+  - Computerlinguistik
+  - KI in der Bildung
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -61,4 +60,4 @@ user_groups:
   - FernUniversität in Hagen
 ---
 
-Torsten Zesch is Research Professor of Computational Linguistics at the Center of Advanced Technology for Assisted Learning and Predictive Analytics (CATALPA) at the FernUniversität in Hagen, Germany. His research interests focus on natural language processing in education, in particular on how teaching and learning processes can be supported by language technology and AI. To this end, he develops methods for the automatic analysis of (multimodal) speech data with a focus on robust and explainable models.
+Torsten Zesch ist Forschungsprofessor für Computerlinguistik am Center of Advanced Technology for Assisted Learning and Predictive Analytics (CATALPA) der FernUniversität in Hagen, Deutschland. Seine Forschungsinteressen konzentrieren sich auf die Verarbeitung natürlicher Sprache im Bildungsbereich, insbesondere darauf, wie Lehr- und Lernprozesse durch Sprachtechnologie und KI unterstützt werden können. Zu diesem Zweck entwickelt er Methoden zur automatischen Analyse von (multimodalen) Sprachdaten mit dem Fokus auf robuste und erklärbare Modelle.
