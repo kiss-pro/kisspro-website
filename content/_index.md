@@ -22,6 +22,11 @@ sections:
 
         In Kooperation mit den Landesinstituten der Länder Berlin-Brandenburg, Hamburg, Niedersachsen und Schleswig-Holstein werden darüber hinaus nachhaltige Transferstrategien entwickelt und die Professionalisierungskonzepte für Lehrkräfte als Open Educational Resources frei verfügbar gemacht.   
 
+  - block: markdown
+    id: section-4
+    content:
+      text: In Kooperation mit den Landesinstituten der Länder Berlin-Brandenburg, Hamburg, Niedersachsen und Schleswig-Holstein werden darüber hinaus nachhaltige Transferstrategien entwickelt und die Professionalisierungskonzepte für Lehrkräfte als Open Educational Resources frei verfügbar gemacht.  
+
   - block: collection
     content:
       title: Latest News
