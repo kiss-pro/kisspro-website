@@ -10,7 +10,7 @@ last_name: Zesch
 superuser: false
 
 # Role/position
-role: Professor 'Computerlinguistik'
+role: 'Computerlinguistik'
 
 # Organizations/Affiliations
 organizations:
