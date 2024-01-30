@@ -16,16 +16,16 @@ sections:
         
         **KISS-Pro - Künstliche Intelligenz in Sprache und Schrift - Professionalisierungskonzepte für und Nutzungsperspektiven von KI-basierten Feedbacksystemen und Schreibagenten für sprachliches Lernen in der Schule** KISS-Pro ist ein Verbundprojekt im Rahmen des Kompetenzverbunds lernen:digital. Ziel des EU- und BMBF-geförderten Projekts ist die Entwicklung von Professionalisierungskonzepten und -modulen, um Lehrkräfte beim didaktisch zielführenden Einsatz KI-basierter Lernsysteme zu unterstützen.
 
+
+  - block: markdown
+    id: introtext
+    content:
+      text: 
         In den Fortbildungsmodulen werden konkrete Nutzungsperspektiven und Einsatzszenarien von KI-basierten Feedbacksystemen und Schreibagenten für sprachliches Lernen aufzeigt und erprobt. Die Professionalisierungskonzepte sollen es Lehrkräften ermöglichen, KI-basierte Systeme speziell zur Unterstützung sprachlichen Lernens beispielsweise im Deutsch- und Englischunterricht kompetent einzusetzen.
 
         Neben der Konzeption von Professionalisierungsangeboten für den Einsatz von KI zum sprachlichen Lernen liegt ein weiterer Schwerpunkt des Projekts auf der vertieften Analyse von und Auseinandersetzung mit den ethischen, rechtlichen und sozialen Implikationen des Einsatzes von KI-gestützten Systemen im schulischen Kontext.
 
         In Kooperation mit den Landesinstituten der Länder Berlin-Brandenburg, Hamburg, Niedersachsen und Schleswig-Holstein werden darüber hinaus nachhaltige Transferstrategien entwickelt und die Professionalisierungskonzepte für Lehrkräfte als Open Educational Resources frei verfügbar gemacht.   
-
-  - block: markdown
-    id: section-4
-    content:
-      text: In Kooperation mit den Landesinstituten der Länder Berlin-Brandenburg, Hamburg, Niedersachsen und Schleswig-Holstein werden darüber hinaus nachhaltige Transferstrategien entwickelt und die Professionalisierungskonzepte für Lehrkräfte als Open Educational Resources frei verfügbar gemacht.  
 
   - block: collection
     content:
