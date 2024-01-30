@@ -29,7 +29,7 @@ sections:
 
   - block: collection
     content:
-      title: Latest News
+      title: Aktuelles
       subtitle:
       text:
       count: 5
