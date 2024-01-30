@@ -10,7 +10,7 @@ last_name: Bewersdorff
 superuser: false
 
 # Role/position
-role: Doktorand*in
+role: Computerlinguistik
 
 # Organizations/Affiliations
 organizations:
@@ -22,21 +22,9 @@ organizations:
 #bio: My research interests include natural language programming, artificial intelligence and data visualization.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Visualization
+  - Computerlinguistik
+  - KI
 
-education:
-  courses:
-    - course: PhD student Computational Linguistics
-      institution: FernUniversität in Hagen
-      year: since 2021
-    - course: MSc in Computer Science
-      institution: University of Duisburg-Essen
-      year: 2021
-    - course: BSc in Computer Science
-      institution: University of Duisburg-Essen
-      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
