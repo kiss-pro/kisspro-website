@@ -15,7 +15,7 @@ role: Computerlinguistik
 # Organizations/Affiliations
 organizations:
   - name: FernUniversität in Hagen
-    url: 'https://www.fernuni-hagen.de/computerlinguistik/'
+    url: 'https://www.fernuni-hagen.de/forschung/schwerpunkte/catalpa/ueber-catalpa/personen/jeanette.bewersdorff.shtml'
   - name: jeanette.bewersdorff@fernuni-hagen.de
 
 # Short bio (displayed in user profile at end of posts)
