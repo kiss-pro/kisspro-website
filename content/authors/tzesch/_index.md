@@ -21,9 +21,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Unterstützung von Lehr- und Lernprozessen durch Sprachtechnologie und KI
 
-interests:
-  - Computerlinguistik
-  - KI in der Bildung
+#interests:
+#  - Computerlinguistik
+#  - KI in der Bildung
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -60,4 +60,8 @@ user_groups:
   - FernUniversität in Hagen
 ---
 
-Torsten Zesch ist Forschungsprofessor für Computerlinguistik am Center of Advanced Technology for Assisted Learning and Predictive Analytics (CATALPA) der FernUniversität in Hagen, Deutschland. Seine Forschungsinteressen konzentrieren sich auf die Verarbeitung natürlicher Sprache im Bildungsbereich, insbesondere darauf, wie Lehr- und Lernprozesse durch Sprachtechnologie und KI unterstützt werden können. Zu diesem Zweck entwickelt er Methoden zur automatischen Analyse von (multimodalen) Sprachdaten mit dem Fokus auf robuste und erklärbare Modelle.
+Torsten Zesch ist Forschungsprofessor für Computerlinguistik am Center of Advanced Technology for Assisted Learning and Predictive Analytics (CATALPA) der FernUniversität in Hagen, Deutschland. Seine Forschungsinteressen konzentrieren sich auf die Verarbeitung natürlicher Sprache im Bildungsbereich, insbesondere darauf, wie Lehr- und Lernprozesse durch Sprachtechnologie und KI unterstützt werden können. Zu diesem Zweck entwickelt er Methoden zur automatischen Analyse von (multimodalen) Sprachdaten mit dem Fokus auf robuste und erklärbare Modelle.<br>
+
+<big>**Forschungsinteressen:**</big>
+- Computerlinguistik
+- KI in der Bildung

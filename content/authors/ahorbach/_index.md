@@ -20,22 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include ......
 
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Visualization
 
-education:
-  courses:
-    - course: PhD student Computational Linguistics
-      institution: FernUniversität in Hagen
-      year: xxx
-    - course: MSc in Computer Science
-      institution: University of Duisburg-Essen
-      year: xxx
-    - course: BSc in Computer Science
-      institution: University of Duisburg-Essen
-      year: xxx
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -72,4 +57,6 @@ user_groups:
   - Stiftung Universität Hildesheim
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.<br>
+
+<big>**Forschungsinteressen:**</big>
