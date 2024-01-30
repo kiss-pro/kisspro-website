@@ -15,7 +15,7 @@ role: Computerlinguistik
 # Organizations/Affiliations
 organizations:
   - name: FernUniversität in Hagen
-    url: ''
+    url: 'https://www.fernuni-hagen.de/computerlinguistik/'
   - name: jeanette.bewersdorff@fernuni-hagen.de
 
 # Short bio (displayed in user profile at end of posts)
