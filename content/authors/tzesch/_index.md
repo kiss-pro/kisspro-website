@@ -15,7 +15,7 @@ role: 'Computerlinguistik'
 # Organizations/Affiliations
 organizations:
   - name: FernUniversität in Hagen
-    url: ''
+    url: 'https://www.fernuni-hagen.de/forschung/schwerpunkte/catalpa/ueber-catalpa/personen/torsten.zesch.shtml'
   - name: torsten.zesch@fernuni-hagen.de
 
 # Short bio (displayed in user profile at end of posts)
