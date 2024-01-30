@@ -21,7 +21,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include natural language programming, artificial intelligence and data visualization.
 
-interests:
+Interessen:
   - Computerlinguistik
   - KI
 
