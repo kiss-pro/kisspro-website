@@ -63,7 +63,7 @@ user_groups:
 
 Jeanette Bewersdorff ist Doktorandin im Forschungszentrum CATALPA (Center of Advanced Technology for Assisted Learning and Predictive Analytics) der FernUniversität in Hagen im Bereich Computerlinguistik. Ihre Forschungsinteressen sind Computerlinguistik, KI im schulischen Bereich und KI-gestützte Klassifikation von Lernertexten in CEFR Levels. <br>
 
-<big>**Kurz-Vita:**</big>
+<big>**Kurz-CV:**</big>
 - 2018: B.Sc. in Angewandter Informatik an der Uni Duisburg-Essen
 - 2021: M.Sc. in Angewandter Informatik an der Uni Duisburg-Essen
 - 2021 bis 2022: Wissenschaftliche Mitarbeiterin an der Uni Duisburg Essen am Lehrstuhl für Sprachtechnologie
