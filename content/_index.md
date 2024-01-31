@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        **KISS-Pro - Künstliche Intelligenz in Sprache und Schrift - Professionalisierungskonzepte für und Nutzungsperspektiven von KI-basierten Feedbacksystemen und Schreibagenten für sprachliches Lernen in der Schule** <br><br>KISS-Pro ist ein Verbundprojekt im Rahmen des Kompetenzverbunds lernen:digital. Ziel des EU- und BMBF-geförderten Projekts ist die Entwicklung von Professionalisierungskonzepten und -modulen, um Lehrkräfte beim didaktisch zielführenden Einsatz KI-basierter Lernsysteme zu unterstützen.
+        **KISS-Pro - Künstliche Intelligenz in Sprache und Schrift - Professionalisierungskonzepte für und Nutzungsperspektiven von KI-basierten Feedbacksystemen und Schreibagenten für sprachliches Lernen in der Schule** <br><br>KISS-Pro ist ein Verbundprojekt im Rahmen des <a href="https://lernen.digital">Kompetenzverbunds lernen:digital</a>. Ziel des EU- und BMBF-geförderten Projekts ist die Entwicklung von Professionalisierungskonzepten und -modulen, um Lehrkräfte beim didaktisch zielführenden Einsatz KI-basierter Lernsysteme zu unterstützen.
 
 
   - block: markdown
