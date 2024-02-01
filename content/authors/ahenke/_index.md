@@ -10,12 +10,13 @@ last_name: Henke
 superuser: false
 
 # Role/position
-role: Example Role
+role: Schulpädagogik/Empirische Unterrichtsforschung
 
 # Organizations/Affiliations
 organizations:
   - name: Universität Potsdam
-    url: ''
+    url: 'https://www.uni-potsdam.de/de/schulpaedagogik/wissenschaftliche-mitarbeiterinnen/anja-henke'
+  - name: anja.henke@uni-potsdam.de
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include .....
@@ -60,10 +61,21 @@ user_groups:
   - Universität Potsdam
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. <br>
+Anja Henke ist Doktorandin am Arbeitsbereich Schulpädagogik/Empirische Unterrichtsforschung an der Universität Potsdam. Im Rahmen ihrer Promotion befasst sie sich mit adaptiven Technologien in sozialen Lernsituationen und Emotionen und Motivation im technologiegestütztem Unterricht.<br>
 
 <big>**Kurz-CV:**</big>
-- ...
-- ...
+- Seit 2022: Akademische Mitarbeiterin an der Professur für Schulpädagogik, Universität Potsdam"
+- 2022 – 2023: Akademische Mitarbeiterin im Exzellenzcluster „Science of Intelligence“ (TU Berlin), Universität Potsdam
+- 2021 - 2022: Deutschlandstipendiatin (Potsdamer Universitätsstipendium)
+- 2020 - 2022: Wissenschaftliche Hilfskraft im Exzellenzcluster „Science of Intelligence“(TU Berlin) an der Professur für Schulpädagogik, Universität Potsdam
+- 2020 - 2022: M. Ed. Master Lehramt Sek II (Englisch und Geographie) Universität Potsdam 
+- 2019 - 2020: Wissenschaftliche Hilfskraft im Projekt “Reflect“ an der Professur für Schulpädagogik, Universität Potsdam
+- 2019 – 2020: Sprachtutorin am Zentrum für Sprachen und Schlüsselkompetenzen, Universität Potsdam
+- 2016 - 2020: B. Ed. Bachelor Lehramt Sek I & II (Englisch und Geographie), Universität Potsdam
 
 <big>**Forschungsinteressen:**</big>
+- Computergestütztes Lernen und Lehren
+- KI in der Bildung
+- soziale Roboter
+- adaptive Lerntechnologien
+- Emotions- und Motivationsforschung

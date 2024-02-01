@@ -10,12 +10,13 @@ last_name: Lazarides
 superuser: false
 
 # Role/position
-role: Example Role
+role: Schulpädagogik/Empirische Unterrichtsforschung
 
 # Organizations/Affiliations
 organizations:
   - name: Universität Potsdam
-    url: ''
+    url: 'https://www.uni-potsdam.de/de/schulpaedagogik/lazarides'
+  - name: rebecca.lazarides@uni-potsdam.de
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include .....
@@ -56,10 +57,23 @@ user_groups:
   - Universität Potsdam
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.<br>
+Rebecca Lazarides ist Professorin für Schulpädagogik/Empirische Unterrichtsforschung an der Universität Potsdam und Principal Investigator am Exzellenzcluster "Science of Intelligence" der TU Berlin (Doppelaffiliation). Sie ist Mitglied im Wissenschaftlichen Beirat des Ministeriums für Bildung, Jugend und Sport im Land Brandenburg (MBJS) und Mitglied des Wissenschaftlichen Beirats des Instituts für Schulqualität der Länder Berlin und Brandenburg (ISQ). Sie ist Mitglied der Schriftleitung der Zeitschrift für Erziehungswissenschaft und Editorial Board Member der Fachzeitschriften Learning and Instruction und Journal of Educational Psychology. Seit 2022 ist sie 3. Vizepräsidentin im Vorstand der Gesellschaft für Empirische Bildungsforschung (GEBF). Ihre Forschungsinteressen sind Motivations- und Emotionsforschung, Lehr-Lernforschung, Lehrkräftebildungsforschung und der Einsatz von KI und digitalen Technologien in Schule und Unterricht.<br>
 
 <big>**Kurz-CV:**</big>
-- ...
-- ...
+- seit 06/2021: W3 Professur Schulpädagogik/Empirische Unterrichtsforschung, Universität Potsdam
+- 02 - 06 2021: W2 Professur Schulpädagogik Universität Postdam
+- seit 2019: PI im Exzellenzcluster "Science of Intelligence" TU Berlin
+- 2016 - 2021: Juniorprofessur Schulpädagogik, Universität Potsdam
+- 2014 - 2016: Vertretungsprofessur Päd. Psych TU Berlin
+- 2013 - 2014: Wiss. Mitarbeiterin, TU Berlin, Allgemeine Erziehungswiss.
+- 2013: Forschungsaufenthalt Monash University, Australien
+- 2013: Promotion in Psychologie
+- 2009 - 2013: Wiss. Mitarbeiterin TU Berlin, Päd. Psychologie
+- 2008/2009: Therapeut. Weiterbildung (KJP) & sozialpäd. Familienhilfe
+- 2008: Diplom Erziehungswissenschaft
 
 <big>**Forschungsinteressen:**</big>
+- Motivationsforschung
+- Instruktionspsychologie
+- KI
+- Lehrkräftebildung & Lehrkräftekompetenzen
