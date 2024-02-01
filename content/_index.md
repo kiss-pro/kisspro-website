@@ -46,6 +46,13 @@ sections:
       view: card
       columns: '1'
   
+- block: markdown
+    id: bmbfandeu
+    content:
+      text: 
+        <p align="justify"><img src="images/bmbf.png"></p>
+
+
   #- block: markdown
   #  content:
   #    title:
