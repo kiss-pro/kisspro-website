@@ -27,11 +27,6 @@ sections:
 
         In Kooperation mit den Landesinstituten der Länder Berlin-Brandenburg, Hamburg, Niedersachsen und Schleswig-Holstein werden darüber hinaus nachhaltige Transferstrategien entwickelt und die Professionalisierungskonzepte für Lehrkräfte als Open Educational Resources frei verfügbar gemacht.</p>
 
-  - block: markdown
-    id: introtext
-    content:
-      text: 
-        <p align="center">TEST</p>
 
 
 
@@ -53,6 +48,14 @@ sections:
     design:
       view: card
       columns: '1'
+
+
+  - block: markdown
+    id: introtext
+    content:
+      text: 
+        <p align="center">TEST</p>
+
 
   #- block: markdown
   #  content:
