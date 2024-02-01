@@ -54,7 +54,7 @@ sections:
     id: introtext
     content:
       text: 
-        <p align="center">TEST</p>
+        ![targets](/images/my_image2.jpg)
 
 
   #- block: markdown
