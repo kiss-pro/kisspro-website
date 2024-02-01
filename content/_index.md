@@ -46,11 +46,11 @@ sections:
       view: card
       columns: '1'
   
-- block: markdown
-    id: bmbfandeu
-    content:
-      text: 
-        <center>{{< figure src="images/bmbf.png" >}}</center>
+#- block: markdown
+#    id: bmbfandeu
+#    content:
+#      text: 
+#        <center>{{< figure src="images/bmbf.png" >}}</center>
 
 
   #- block: markdown
