@@ -55,7 +55,7 @@ sections:
     content:
       text: 
        # <p align="center"><img src="images/eu.jpg" width="20%"/><img src="images/bmbf.png" width="20%"/></p>
-        <div display="flex"><img src="images/eu.jpg" width="20%"/><img src="images/bmbf.png" width="20%"/></div> 
+        <img src="images/eu.jpg" style="width:20%;float:left; margin-right:10px;"><img src="images/bmbf.png" style="width:20%;float:left;">
 
 
   #- block: markdown
