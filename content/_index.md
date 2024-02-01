@@ -45,13 +45,6 @@ sections:
     design:
       view: card
       columns: '1'
-  
-- block: markdown
-  id: bmbfandeu
-  content:
-    text: 
-        test test test 
-
 
   #- block: markdown
   #  content:
