@@ -65,7 +65,7 @@ Jeanette Bewersdorff ist Doktorandin im Forschungszentrum CATALPA (Center of Adv
 
 <big>**Kurz-CV:**</big>
 - seit 2023: Wissenschaftliche Mitarbeiterin an der FernUni Hagen in der Forschungsprofessur Computerlinguistik im Forschungszentrum CATALPA
-- 2021 bis 2022: Wissenschaftliche Mitarbeiterin an der Uni Duisburg Essen am Lehrstuhl für Sprachtechnologie
+- 2021 bis 2022: Wissenschaftliche Mitarbeiterin an der Uni Duisburg-Essen am Lehrstuhl für Sprachtechnologie
 - 2021: M.Sc. in Angewandter Informatik an der Uni Duisburg-Essen
 - 2018: B.Sc. in Angewandter Informatik an der Uni Duisburg-Essen
 
