@@ -54,7 +54,7 @@ sections:
     id: introtext
     content:
       text: 
-       <p align="center"><img src="images/logos_combined.png" width="50%"/></p>
+       <p align="center"><img src="images/logos_comb.png" width="50%"/></p>
        # <center><img src="images/eu.jpg" style="width:15%;float:left; margin-right:10px;"><img src="images/bmbf.png" style="width:20%;float:left;"></center>
 
 
