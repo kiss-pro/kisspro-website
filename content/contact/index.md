@@ -10,7 +10,7 @@ sections:
       title: Kontakt
       text: |-
         <p align="center">Bei Fragen wenden Sie sich bitte an unsere Koordinatorin Sarah Bormann.</p>
-      email: saborman@uni-potsdam.de
+      email: <p align="center">saborman@uni-potsdam.de</p>
       #phone: 888 888 88 88
       #address:
       #  street: 450 Serra Mall
