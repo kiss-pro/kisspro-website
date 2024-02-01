@@ -54,7 +54,7 @@ sections:
     id: introtext
     content:
       text: 
-        <p align="center"><img src="images/eu.jpg" /></p>
+        <p align="center"><img src="images/eu.jpg" width="20%"/></p>
 
 
   #- block: markdown
