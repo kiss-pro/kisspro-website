@@ -9,7 +9,7 @@ sections:
     content:
       title: Kontakt
       text: |-
-        Bei Fragen wenden Sie sich bitte an unsere Koordinatorin Sarah Bormann. saborman@uni-potsdam.de
+        <p align="center">Bei Fragen wenden Sie sich bitte an unsere Koordinatorin Sarah Bormann.</p>
       email: saborman@uni-potsdam.de
       #phone: 888 888 88 88
       #address:
