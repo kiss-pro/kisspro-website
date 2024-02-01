@@ -65,12 +65,12 @@ Anja Henke ist Doktorandin am Arbeitsbereich Schulpädagogik/Empirische Unterric
 
 <big>**Kurz-CV:**</big>
 - Seit 2022: Akademische Mitarbeiterin an der Professur für Schulpädagogik, Universität Potsdam"
-- 2022 – 2023: Akademische Mitarbeiterin im Exzellenzcluster „Science of Intelligence“ (TU Berlin), Universität Potsdam
+- 2022 - 2023: Akademische Mitarbeiterin im Exzellenzcluster „Science of Intelligence“ (TU Berlin), Universität Potsdam
 - 2021 - 2022: Deutschlandstipendiatin (Potsdamer Universitätsstipendium)
 - 2020 - 2022: Wissenschaftliche Hilfskraft im Exzellenzcluster „Science of Intelligence“(TU Berlin) an der Professur für Schulpädagogik, Universität Potsdam
 - 2020 - 2022: M. Ed. Master Lehramt Sek II (Englisch und Geographie) Universität Potsdam 
 - 2019 - 2020: Wissenschaftliche Hilfskraft im Projekt “Reflect“ an der Professur für Schulpädagogik, Universität Potsdam
-- 2019 – 2020: Sprachtutorin am Zentrum für Sprachen und Schlüsselkompetenzen, Universität Potsdam
+- 2019 - 2020: Sprachtutorin am Zentrum für Sprachen und Schlüsselkompetenzen, Universität Potsdam
 - 2016 - 2020: B. Ed. Bachelor Lehramt Sek I & II (Englisch und Geographie), Universität Potsdam
 
 <big>**Forschungsinteressen:**</big>

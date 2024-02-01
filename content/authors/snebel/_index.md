@@ -10,12 +10,13 @@ last_name: Nebel
 superuser: false
 
 # Role/position
-role: Example Role
+role: Medienbildung
 
 # Organizations/Affiliations
 organizations:
   - name: Universität Potsdam
-    url: ''
+    url: 'https://www.uni-potsdam.de/de/medienbildung/prof-dr-steve-nebel'
+  - name: steve.nebel@uni-potsdam.de
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include .....
@@ -56,10 +57,16 @@ user_groups:
   - Universität Potsdam
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.<br>
+Steve Nebel ist Professor für Schulbezogene Medienbildung an der Universität Potsdam. Im 
+Zentrum der Forschung am Lehrstuhl stehen medienpsychologische, instruktionspsychologische und erziehungswissenschaftliche Perspektiven auf das Lernen mit und über Medien.
+Ein besonderer Schwerpunkt liegt auf immersiven und adaptiven Medientypen wie virtuellen Umgebungen, Spielen oder KI-gestützten Inhalten.<br>
 
 <big>**Kurz-CV:**</big>
-- ...
-- ...
+- Seit 2022 Professor Schulbezogene Medienbildung
+- Seit 2013 Wiss. Mitarbeiter, Promotion Medien- und Instruktionspsychologie an der TU Chemnitz
+- Studium Medientechnik, Medienkommunikation
 
 <big>**Forschungsinteressen:**</big>
+- Instruktionspsychologie
+- Medienpsychologie
+- Lernen mit/über digitalen Medien
