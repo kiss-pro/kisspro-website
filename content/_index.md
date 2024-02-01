@@ -46,11 +46,11 @@ sections:
       view: card
       columns: '1'
   
-- block: markdown
-  id: bmbfandeu
-  content:
-    text: 
-        ![targets](/images/bmbf.png)
+#- block: markdown
+#  id: bmbfandeu
+#  content:
+#    text: 
+#        ![targets](/images/bmbf.png)
 
 
   #- block: markdown
