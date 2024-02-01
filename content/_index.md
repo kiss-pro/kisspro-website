@@ -47,9 +47,9 @@ sections:
       columns: '1'
   
 - block: markdown
-    id: bmbfandeu
-    content:
-      text: 
+  id: bmbfandeu
+  content:
+    text: 
         ![targets](/images/bmbf.png)
 
 
