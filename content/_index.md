@@ -54,8 +54,8 @@ sections:
     id: introtext
     content:
       text: 
-       # <p align="center"><img src="images/eu.jpg" width="20%"/><img src="images/bmbf.png" width="20%"/></p>
-        <center><img src="images/eu.jpg" style="width:15%;float:left; margin-right:10px;"><img src="images/bmbf.png" style="width:20%;float:left;"></center>
+       <p align="center"><img src="images/combined.png" width="50%"/></p>
+       # <center><img src="images/eu.jpg" style="width:15%;float:left; margin-right:10px;"><img src="images/bmbf.png" style="width:20%;float:left;"></center>
 
 
   #- block: markdown
