@@ -54,7 +54,7 @@ sections:
     id: introtext
     content:
       text: 
-        ![targets](/images/my_image2.jpg)
+        ![targets](/images/bmbf.png)
 
 
   #- block: markdown
