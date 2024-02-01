@@ -10,12 +10,13 @@ last_name: Hülsing
 superuser: false
 
 # Role/position
-role: Example Role
+role: Computerlinguistik
 
 # Organizations/Affiliations
 organizations:
   - name: Stiftung Universität Hildesheim
     url: ''
+  - name: anna.huelsing@uni-hildesheim.de
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include ......
@@ -56,10 +57,14 @@ user_groups:
   - Stiftung Universität Hildesheim
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.<br>
+Anna Hülsing ist Doktorandin im Institut für Informationswissenschaft und Sprachtechnologie der Universität Hildesheim. Ihr Forschungsinteresse besteht darin, Methoden der maschinellen Sprachverarbeitung (NLP) für Bildungszwecke anzuwenden. Ihr Schwerpunkt liegt auf der automatisierten Vereinfachung von Lehrtexten, die zu individualisiertem Unterricht beiträgt. <br>
 
 <big>**Kurz-CV:**</big>
-- ...
-- ...
+- 2023 - heute: Wissenschaftliche Mitarbeiterin an der Universität Hildesheim
+- 2019 - 2023: M.Sc. in Computerlinguistik (Uni Stuttgart)
+- 2011 - 2022: Redakteurin für Schulbücher im Ernst Klett Verlag
+- 2010: 1. Staatsexamen für das Lehramt an Gymnasien (Uni Mainz)
 
 <big>**Forschungsinteressen:**</big>
+- Computerlinguistik
+- KI in der Bildung

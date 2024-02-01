@@ -10,12 +10,13 @@ last_name: Mertens
 superuser: false
 
 # Role/position
-role: Example Role
+role: Psychologie
 
 # Organizations/Affiliations
 organizations:
   - name: IPN - Leibniz-Institut für die Pädagogik der Naturwissenschaften und Mathematik
     url: ''
+  - name: mertens@leibniz-ipn.de
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include .....
@@ -59,7 +60,11 @@ user_groups:
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.<br>
 
 <big>**Kurz-CV:**</big>
-- ...
-- ...
+- seit 2023: Wissenschaftliche Mitarbeiterin am IPN Kiel (Post-doc)
+- Juli 2023: Promotion im Fach Psychologie an der Christian-Albrechts-Universität zu Kiel
+- Oktober 2018 - Juli 2023: Wissenschaftliche Mitarbeiterin und Promovierende am IPN Kiel
 
 <big>**Forschungsinteressen:**</big>
+- Feedback im Lern- und Leistungkontext
+- Künstliche Intelligenz in der Bildung
+- Motivationale Prozesse bei der Testbearbeitung

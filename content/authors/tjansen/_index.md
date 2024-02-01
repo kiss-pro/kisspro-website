@@ -10,12 +10,13 @@ last_name: Jansen
 superuser: false
 
 # Role/position
-role: Example Role
+role: Psychologie
 
 # Organizations/Affiliations
 organizations:
   - name: IPN - Leibniz-Institut für die Pädagogik der Naturwissenschaften und Mathematik
-    url: ''
+    url: 'https://www.leibniz-ipn.de/de/das-ipn/ueber-uns/personen/thorben-jansen'
+  - name: tjansen@leibniz-ipn.de
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include .....
@@ -59,7 +60,11 @@ user_groups:
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.<br>
 
 <big>**Kurz-CV:**</big>
-- ...
-- ...
+- seit Juni 2021: Nachwuchsforschungsgruppenleiter am IPN
+- 2019 - Mai 2021: wissenschaftlicher Mitarbeiter an der Universität Kiel (Post-Doc)
+- Oktober 2016- November 2019: wissenschaftlicher Mitarbeiter an der Universität Kiel (Prä-Doc)
 
 <big>**Forschungsinteressen:**</big>
+- Lehren und Lernen mit künstlicher Intelligenz
+- Schreiben
+- Feedback

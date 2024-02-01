@@ -10,12 +10,13 @@ last_name: Horbach
 superuser: false
 
 # Role/position
-role: Example Role
+role: Computerlinguistik
 
 # Organizations/Affiliations
 organizations:
   - name: Stiftung Universität Hildesheim
-    url: ''
+    url: 'https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/horbach/'
+  - name: horbach@uni-hildesheim.de
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include ......
@@ -57,10 +58,14 @@ user_groups:
   - Stiftung Universität Hildesheim
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.<br>
+Andrea Horbach ist Juniorprofessorin für Digitale Geisteswissenschaften an der Universität Hildesheim und Nachwuchsgruppenleiterin in CATALPA (Center of Advanced Technology for Assisted Learning and Predictive Analytics) an der FernUni Hagen. Als Computerlinguistin untersucht sie, wie Lehrenden und Lernende durch Sprachtechnologie optimal unterstützt werden können.<br>
 
 <big>**Kurz-CV:**</big>
-- ...
-- ...
+- seit 2023: Juniorprofessorin für Digitale Geisteswissenschaften an der Stiftung Universität Hildesheim 
+- seit 2021: Leiterin der Nachwuchsforschungsgruppe “Educational Natural Language Processing” bei CATALPA - Center of Advanced Technology for Assisted Learning and Predictive Analytics, FernUniversität in Hagen 
+- 2016 bis 2021: Wissenschaftliche Mitarbeiterin, Language Technology Lab, Universität Duisburg-Essen 
+- 2018 Promotion in der Computerlinguistik, Universität des Saarlandes, Saarbrücken
 
 <big>**Forschungsinteressen:**</big>
+- Computerlinguistik
+- KI in der Bildung
