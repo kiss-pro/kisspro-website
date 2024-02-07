@@ -5,7 +5,7 @@ title: Janne Mesenhöller
 # Full Name (for SEO)
 first_name: Janne
 last_name: Mesenhöller
-weight_alphanumeric: 2
+weight_alphanumeric: 6
 
 # Is this the primary user of the site?
 superuser: false

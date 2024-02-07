@@ -5,7 +5,7 @@ title: Felix Reuth
 # Full Name (for SEO)
 first_name: Felix
 last_name: Reuth
-weight_alphanumeric: 2
+weight_alphanumeric: 7
 
 # Is this the primary user of the site?
 superuser: false

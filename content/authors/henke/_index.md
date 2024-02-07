@@ -5,7 +5,7 @@ title: Anja Henke
 # Full Name (for SEO)
 first_name: Anja
 last_name: Henke
-weight_alphanumeric: 2
+weight_alphanumeric: 5
 
 # Is this the primary user of the site?
 superuser: false
