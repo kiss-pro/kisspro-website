@@ -5,6 +5,7 @@ title: Prof. Dr. Katrin Böhme
 # Full Name (for SEO)
 first_name: Katrin
 last_name: Böhme
+weight_alphanumeric: 1
 
 # Is this the primary user of the site?
 superuser: false

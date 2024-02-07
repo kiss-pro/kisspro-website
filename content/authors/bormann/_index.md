@@ -5,6 +5,7 @@ title: Sarah Bormann
 # Full Name (for SEO)
 first_name: Sarah
 last_name: Bormann
+weight_alphanumeric: 2
 
 # Is this the primary user of the site?
 superuser: false

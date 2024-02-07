@@ -5,6 +5,7 @@ title: Prof. Dr. Steve Nebel
 # Full Name (for SEO)
 first_name: Steve
 last_name: Nebel
+weight_alphanumeric: 1
 
 # Is this the primary user of the site?
 superuser: false

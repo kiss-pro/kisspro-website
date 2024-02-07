@@ -5,6 +5,7 @@ title: Prof. Dr. Rebecca Lazarides
 # Full Name (for SEO)
 first_name: Rebecca
 last_name: Lazarides
+weight_alphanumeric: 1
 
 # Is this the primary user of the site?
 superuser: false
