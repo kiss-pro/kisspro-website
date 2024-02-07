@@ -10,7 +10,7 @@ last_name: Böhme
 superuser: false
 
 # Role/position
-role: Psychologie
+role: Inklusionspädagogik
 
 # Organizations/Affiliations
 organizations:
