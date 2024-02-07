@@ -5,7 +5,7 @@ title: Jeanette Bewersdorff
 # Full Name (for SEO)
 first_name: Jeanette
 last_name: Bewersdorff
-weight: 2
+weight: b
 
 # Is this the primary user of the site?
 superuser: false
