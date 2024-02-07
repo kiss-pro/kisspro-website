@@ -59,6 +59,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - FernUniversität in Hagen
+  - b
 ---
 
 Jeanette Bewersdorff ist Doktorandin im Forschungszentrum CATALPA (Center of Advanced Technology for Assisted Learning and Predictive Analytics) der FernUniversität in Hagen im Bereich Computerlinguistik. Ihre Forschungsinteressen sind Computerlinguistik, KI im schulischen Bereich und KI-gestützte Klassifikation von Lernertexten in CEFR Levels.<br>
