@@ -1,31 +1,29 @@
 ---
 # Display name
-title: Jeanette Bewersdorff
+title: Prof. Dr. Torsten Zesch
 
 # Full Name (for SEO)
-first_name: Jeanette
-last_name: Bewersdorff
-weight: b
-
+first_name: Torsten
+last_name: Zesch
+#weight: a
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Computerlinguistik
+role: 'Computerlinguistik'
 
 # Organizations/Affiliations
 organizations:
   - name: FernUniversität in Hagen
-    url: 'https://www.fernuni-hagen.de/forschung/schwerpunkte/catalpa/ueber-catalpa/personen/jeanette.bewersdorff.shtml'
-  - name: jeanette.bewersdorff@fernuni-hagen.de
+    url: 'https://www.fernuni-hagen.de/forschung/schwerpunkte/catalpa/ueber-catalpa/personen/torsten.zesch.shtml'
+  - name: torsten.zesch@fernuni-hagen.de
 
 # Short bio (displayed in user profile at end of posts)
-#bio: My research interests include natural language programming, artificial intelligence and data visualization.
+bio: Unterstützung von Lehr- und Lernprozessen durch Sprachtechnologie und KI
 
 #interests:
 #  - Computerlinguistik
-#  - KI
-
+#  - KI in der Bildung
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -34,7 +32,7 @@ organizations:
 #social:
 #  - icon: envelope
 #    icon_pack: fas
-#    link: 'jeanette.bewersdorff@fernuni-hagen.de'
+#    link: 'mailto:test@example.org'
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
@@ -62,13 +60,11 @@ user_groups:
   - FernUniversität in Hagen
 ---
 
-Jeanette Bewersdorff ist Doktorandin im Forschungszentrum CATALPA (Center of Advanced Technology for Assisted Learning and Predictive Analytics) der FernUniversität in Hagen im Bereich Computerlinguistik. Ihre Forschungsinteressen sind Computerlinguistik, KI im schulischen Bereich und KI-gestützte Klassifikation von Lernertexten in CEFR Levels.<br>
+Torsten Zesch ist Forschungsprofessor für Computerlinguistik am Center of Advanced Technology for Assisted Learning and Predictive Analytics (CATALPA) der FernUniversität in Hagen, Deutschland. Seine Forschungsinteressen konzentrieren sich auf die Verarbeitung natürlicher Sprache im Bildungsbereich, insbesondere darauf, wie Lehr- und Lernprozesse durch Sprachtechnologie und KI unterstützt werden können. Zu diesem Zweck entwickelt er Methoden zur automatischen Analyse von (multimodalen) Sprachdaten mit dem Fokus auf robuste und erklärbare Modelle.<br>
 
 <big>**Kurz-CV:**</big>
-- seit 2023: Wissenschaftliche Mitarbeiterin an der FernUni Hagen in der Forschungsprofessur Computerlinguistik im Forschungszentrum CATALPA
-- 2021 bis 2022: Wissenschaftliche Mitarbeiterin an der Uni Duisburg-Essen am Lehrstuhl für Sprachtechnologie
-- 2021: M.Sc. in Angewandter Informatik an der Uni Duisburg-Essen
-- 2018: B.Sc. in Angewandter Informatik an der Uni Duisburg-Essen
+- ...
+- ...
 
 <big>**Forschungsinteressen:**</big>
 - Computerlinguistik
