@@ -22,8 +22,8 @@ sections:
           - Stiftung Universität Hildesheim
           
           
-          
-      sort_by: Params.last_name
+         # Params.last_name
+      sort_by: Params.user_groups
       sort_ascending: true
     design:
       show_interests: false
