@@ -58,7 +58,6 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - FernUniversität in Hagen
-  - a
 ---
 
 Torsten Zesch ist Forschungsprofessor für Computerlinguistik am Center of Advanced Technology for Assisted Learning and Predictive Analytics (CATALPA) der FernUniversität in Hagen, Deutschland. Seine Forschungsinteressen konzentrieren sich auf die Verarbeitung natürlicher Sprache im Bildungsbereich, insbesondere darauf, wie Lehr- und Lernprozesse durch Sprachtechnologie und KI unterstützt werden können. Zu diesem Zweck entwickelt er Methoden zur automatischen Analyse von (multimodalen) Sprachdaten mit dem Fokus auf robuste und erklärbare Modelle.<br>
