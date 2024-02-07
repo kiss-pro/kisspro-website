@@ -5,7 +5,7 @@ title: Prof. Dr. Torsten Zesch
 # Full Name (for SEO)
 first_name: Torsten
 last_name: Zesch
-weight_alphanumeric: a
+weight_alphanumeric: 1
 
 # Is this the primary user of the site?
 superuser: false
