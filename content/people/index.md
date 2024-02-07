@@ -23,8 +23,8 @@ sections:
           
           
          # Params.last_name
-      sort_by: Params.user_groups
-      sort_ascending: false
+      sort_by: Params.title
+      sort_ascending: true
     design:
       show_interests: false
       show_role: true
