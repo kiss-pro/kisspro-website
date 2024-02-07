@@ -20,8 +20,6 @@ sections:
           - FernUniversität in Hagen
           - IPN - Leibniz-Institut für die Pädagogik der Naturwissenschaften und Mathematik
           - Stiftung Universität Hildesheim
-          - a
-          - b
           
           
           
