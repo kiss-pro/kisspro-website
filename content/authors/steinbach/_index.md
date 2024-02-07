@@ -11,12 +11,13 @@ weight_alphanumeric: 7
 superuser: false
 
 # Role/position
-role: Example Role
+role: Psychologie
 
 # Organizations/Affiliations
 organizations:
   - name: IPN - Leibniz-Institut für die Pädagogik der Naturwissenschaften und Mathematik
-    url: ''
+    url: 'https://www.leibniz-ipn.de/de/das-ipn/ueber-uns/personen/marlene-hanna-steinbach'
+  - name: steinbach@leibniz-ipn.de
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include .....
@@ -57,10 +58,12 @@ user_groups:
   - IPN - Leibniz-Institut für die Pädagogik der Naturwissenschaften und Mathematik
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.<br>
+Marlene Steinbach konzentriert sie sich auf die Analyse und Auswirkungen von auf künstlicher Intelligenz basierendem Feedback. BIhr Forschungsinteresse bezieht sich vor allem auf die spezifischen Eigenschaften dieses Feedbacks und dessen Einfluss auf Lernen und Motivation von Schülerinnen und Schülern im Sprachunterricht. <br>
 
 <big>**Kurz-CV:**</big>
-- ...
-- ...
+- seit Mai 2023: Wissenschaftliche Mitarbeiterin und Doktorandin am IPN Kiel 
+- 2016-2022: Studium in Psychologie an der CAU Kiel, Schwerpunkt Klinische Psychologie
 
 <big>**Forschungsinteressen:**</big>
+- Feedback auf Basis künstlicher Intelligenz
+- Motivationale Prozesse
