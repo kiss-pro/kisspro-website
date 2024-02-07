@@ -5,6 +5,7 @@ title: Dr. Ute Mertens
 # Full Name (for SEO)
 first_name: Ute
 last_name: Mertens
+weight_alphanumeric: 4
 
 # Is this the primary user of the site?
 superuser: false

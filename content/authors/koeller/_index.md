@@ -5,6 +5,7 @@ title: Prof. Dr. Olaf Köller
 # Full Name (for SEO)
 first_name: Olaf
 last_name: Köller
+weight_alphanumeric: 1
 
 # Is this the primary user of the site?
 superuser: false

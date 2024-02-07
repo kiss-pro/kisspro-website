@@ -5,6 +5,7 @@ title: Anna Hülsing
 # Full Name (for SEO)
 first_name: Anna
 last_name: Hülsing
+weight_alphanumeric: 5
 
 # Is this the primary user of the site?
 superuser: false

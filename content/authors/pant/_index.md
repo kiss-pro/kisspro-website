@@ -5,6 +5,7 @@ title: Prof. Dr. Hans Pant
 # Full Name (for SEO)
 first_name: Hans
 last_name: Pant
+weight_alphanumeric: 2
 
 # Is this the primary user of the site?
 superuser: false

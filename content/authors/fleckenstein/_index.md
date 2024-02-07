@@ -5,6 +5,7 @@ title: Prof. Dr. Johanna Fleckenstein
 # Full Name (for SEO)
 first_name: Beispiel
 last_name: Hildesheim
+weight_alphanumeric: 1
 
 # Is this the primary user of the site?
 superuser: false

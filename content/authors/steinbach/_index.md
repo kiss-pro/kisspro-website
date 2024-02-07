@@ -5,6 +5,7 @@ title: Marlene Steinbach
 # Full Name (for SEO)
 first_name: Marlene
 last_name: Steinbach
+weight_alphanumeric: 7
 
 # Is this the primary user of the site?
 superuser: false

@@ -5,6 +5,7 @@ title: Dr. Thorben Jansen
 # Full Name (for SEO)
 first_name: Thorben
 last_name: Jansen
+weight_alphanumeric: 3
 
 # Is this the primary user of the site?
 superuser: false

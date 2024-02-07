@@ -5,6 +5,7 @@ title: Dr. Fabian Schmidt
 # Full Name (for SEO)
 first_name: Fabian
 last_name: Schmidt
+weight_alphanumeric: 3
 
 # Is this the primary user of the site?
 superuser: false

@@ -5,6 +5,7 @@ title: Dr. Jennifer Meyer
 # Full Name (for SEO)
 first_name: Jennifer
 last_name: Meyer
+weight_alphanumeric: 5
 
 # Is this the primary user of the site?
 superuser: false

@@ -5,6 +5,7 @@ title: Dennis Föste-Eggers
 # Full Name (for SEO)
 first_name: Dennis
 last_name: Föste-Eggers
+weight_alphanumeric: 4
 
 # Is this the primary user of the site?
 superuser: false
