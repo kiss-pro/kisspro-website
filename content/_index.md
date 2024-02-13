@@ -50,8 +50,15 @@ sections:
       columns: '1'
 
 
+- block: markdown
+    id: vids
+    content:
+      text: 
+       <iframe width="560" height="315" src="https://www.youtube.com/embed/RrPP6NaF4gk?si=0iIJAHh_Oac0_bFR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
   - block: markdown
-    id: introtext
+    id: logos
     content:
       text: 
        <p align="center"><img src="images/logo_comb.png" width="50%"/></p>
