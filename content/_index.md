@@ -50,7 +50,7 @@ sections:
       columns: '1'
 
 
-- block: markdown
+  - block: markdown
     id: vids
     content:
       text: 
