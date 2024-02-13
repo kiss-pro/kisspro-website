@@ -50,11 +50,11 @@ sections:
       columns: '1'
 
 
-  - block: markdown
-    id: vids
-    content:
-      text: 
-       <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/RrPP6NaF4gk?si=0iIJAHh_Oac0_bFR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+  #- block: markdown
+  #  id: vids
+  #  content:
+  #    text: 
+  #     <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/RrPP6NaF4gk?si=0iIJAHh_Oac0_bFR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 
   - block: markdown
