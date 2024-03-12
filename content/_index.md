@@ -34,6 +34,7 @@ sections:
       text: 
        <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/eluT-B9-114?si=CC555dfkx-wqLBbT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
        <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/W8AwLXn4mMo?si=Zdl7cbWBhseLByZr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+       <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/znfHukBAjGQ?si=8hqfc5r7am8liDYB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 
   - block: collection
