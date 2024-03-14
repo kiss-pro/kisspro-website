@@ -59,7 +59,7 @@ user_groups:
   - Stiftung Universität Hildesheim
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.<br>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. <br>
 
 <big>**Kurz-CV:**</big>
 - seit 12/2023: Wissenschaftlicher Mitarbeiter an der Universität Hildesheim, Institut für Erziehungswissenschaft, Abteilung Angewandte Erziehungswissenschaft

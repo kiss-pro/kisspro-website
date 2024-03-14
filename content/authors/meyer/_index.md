@@ -11,12 +11,13 @@ weight_alphanumeric: 5
 superuser: false
 
 # Role/position
-role: Example Role
+role: Psychologie
 
 # Organizations/Affiliations
 organizations:
   - name: IPN - Leibniz-Institut für die Pädagogik der Naturwissenschaften und Mathematik
-    url: ''
+    url: 'https://www.leibniz-ipn.de/de/das-ipn/ueber-uns/personen/jennifer-meyer'
+  - name: jmeyer@leibniz-ipn.de
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include .....
@@ -57,10 +58,16 @@ user_groups:
   - IPN - Leibniz-Institut für die Pädagogik der Naturwissenschaften und Mathematik
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.<br>
+Jennifer Meyer ist Postdoktorandin und Nachwuchsforschungsgruppenleiterin in der Abteilung Erziehungswissenschaft und Pädagogische Psychologie am IPN in Kiel. Sie beschäftigt sich mit der individualisierten Förderung von Schreibkompetenzen mithilfe künstlicher Intelligenz und der Untersuchung psychologischer Prozesse beim Lehren und Lernen, sowie mit Potentialen und Herausforderungen generativer KI in der Bildung. <br>
 
 <big>**Kurz-CV:**</big>
-- ...
-- ...
+- seit 2022 Nachwuchsgruppenleitung FORMAT am IPN
+- seit 2019 Postdoktorandin am IPN 
+- 2016-2019 Wissenschaftliche Mitarbeiterin und Doktorandin am IPN
 
 <big>**Forschungsinteressen:**</big>
+- Determinanten von Schulleistungen
+- KI in der Bildung
+- Feedback
+- Motivation
+- individualisierte Schreibförderung

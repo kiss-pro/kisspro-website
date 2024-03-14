@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Jonathan Schaller
+title: Nils-Jonathan Schaller
 
 # Full Name (for SEO)
-first_name: Jonathan
+first_name: Nils-Jonathan
 last_name: Schaller
 weight_alphanumeric: 6
 
@@ -11,12 +11,13 @@ weight_alphanumeric: 6
 superuser: false
 
 # Role/position
-role: Example Role
+role: Computerlinguistik
 
 # Organizations/Affiliations
 organizations:
   - name: IPN - Leibniz-Institut für die Pädagogik der Naturwissenschaften und Mathematik
-    url: ''
+    url: 'https://www.leibniz-ipn.de/de/das-ipn/ueber-uns/personen/nils-jonathan-schaller'
+  - name: schaller@leibniz-ipn.de
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include .....
@@ -57,10 +58,12 @@ user_groups:
   - IPN - Leibniz-Institut für die Pädagogik der Naturwissenschaften und Mathematik
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.<br>
+Nils-Jonathan Schaller ist Computerlinguistik am IPN in Kiel. Er befasst sich mit der Nutzung von künstlicher Intelligenz in der Bildung, mit einem Schwerpunkt auf Feedback und argumentativem Schreiben.<br>
 
 <big>**Kurz-CV:**</big>
-- ...
-- ...
+- seit 2021 Wissenschaftlicher Mitarbeiter am IPN Kiel
+- 2018-2020 Studium der Computerlinguistik an der VU Amsterdam
 
 <big>**Forschungsinteressen:**</big>
+- Computerlinguistik
+- KI in der Bildung
