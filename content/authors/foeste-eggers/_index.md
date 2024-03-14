@@ -11,7 +11,7 @@ weight_alphanumeric: 4
 superuser: false
 
 # Role/position
-role: Example Role
+role: Sozialwissenschaften
 
 # Organizations/Affiliations
 organizations:
@@ -62,7 +62,11 @@ user_groups:
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.<br>
 
 <big>**Kurz-CV:**</big>
-- ...
-- ...
+- seit 12/2023: Wissenschaftlicher Mitarbeiter an der Universität Hildesheim, Institut für Erziehungswissenschaft, Abteilung Angewandte Erziehungswissenschaft
+- 2018-2023: Wissenschaftlicher Mitarbeiter am Deutsches Zentrum für Hochschul- und Wissenschaftsforschung (DZHW), Abteilung Bildungsverläufe und Beschäftigung
+- 2012-2018: Wissenschaftlicher Mitarbeiter am Leibniz Institut für die Pädagogik der Naturwissenschaften und Mathematik, Abteilung Erziehungswissenschaft und Pädagogisch-Psychologische Methodenlehre
+- 2004-2012: Studium der Sozialwissenschaften an der Leibniz Universität Hannover
 
 <big>**Forschungsinteressen:**</big>
+- Bildungsungleichheit
+- Methoden der empirischen Sozialforschung
