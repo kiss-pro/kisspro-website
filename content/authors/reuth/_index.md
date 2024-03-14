@@ -11,7 +11,7 @@ weight_alphanumeric: 7
 superuser: false
 
 # Role/position
-role: Example Role
+role: Medienbildung
 
 # Organizations/Affiliations
 organizations:

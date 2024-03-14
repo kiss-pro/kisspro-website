@@ -11,12 +11,13 @@ weight_alphanumeric: 1
 superuser: false
 
 # Role/position
-role: Example Role
+role: Erziehungswissenschaft
 
 # Organizations/Affiliations
 organizations:
   - name: Stiftung Universität Hildesheim
-    url: ''
+    url: 'https://www.uni-hildesheim.de/fb1/institute/institut-fuer-erziehungswissenschaft/angewandte-erziehungswissenschaft/mitglieder/prof-dr-johanna-fleckenstein/'
+  - name: fleckenstein@uni-hildesheim.de
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include ......
@@ -58,10 +59,15 @@ user_groups:
   - Stiftung Universität Hildesheim
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.<br>
+Johanna Fleckenstein ist Juniorprofessorin für Digitales Lehren und Lernen im Unterricht an der Universität Hildesheim und Leiterin der BMBF-Nachwuchsforschungsgruppe FORMAT. Sie beschäftigt sich mit der Frage, wie digitale Technologien Lehr-Lern-Prozesse didaktisch zielführend unterstützen und fachliche sowie sprachliche Leistungen fördern können. Neben dem Instruktionsdesign in digitalen Lernumgebungen spielen dabei interindividuelle Unterschiede zwischen Lernenden sowie Kontextbedingungen eine zentrale Rolle. <br>
 
 <big>**Kurz-CV:**</big>
-- ...
-- ...
+- seit 2021: Juniorprofessorin für Digitales Lehren und Lernen im Unterricht am Institut für Erziehungswissenschaft der Universität Hildesheim
+- seit 2021: Leitung der BMBF-Nachwuchsforschungsgruppe FORMAT am IPN in Kiel bzw. an der Universität Hildesheim
+- 2017-2019: Vertretungsprofessur am Institut für Sekundarstufe an der Pädagogischen Hochschule FHNW in Basel 
+- 2012-2021: Wissenschaftliche Mitarbeiterin in der Abteilung Erziehungswissenschaft und Pädagogische Psychologie am IPN Kiel
 
 <big>**Forschungsinteressen:**</big>
+- Lehren und Lernen mit KI
+- Feedback
+- Diagnostik und Förderung sprachlicher Kompetenzen 
