@@ -16,8 +16,8 @@ role: Example Role
 # Organizations/Affiliations
 organizations:
   - name: Universität Potsdam
-    url: ''
-
+    url: 'https://www.uni-potsdam.de/de/medienbildung/team/felix-reuth'
+  - name: reuth@uni-potsdam.de
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include .....
 
@@ -57,10 +57,13 @@ user_groups:
   - Universität Potsdam
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.<br>
+Felix Reuth ist wissenschaftlicher Mitarbeiter am Lehrstuhl für schulbezogene Medienbildung an der Universität Potsdam. Er beschäftigt sich mit Künstlicher Intelligenz in der Bildung, genauer mit den Potentialen und Herausforderungen von KI-basierten Feedbacksystemen.<br>
 
 <big>**Kurz-CV:**</big>
-- ...
-- ...
+- seit August 2023: wissenschaftlicher Mitarbeiter an der Universität Potsdam am Lehrstuhl für schulbezogene Medienbildung
+- Lehramtsstudium für die Sek. II in English und Geschichte
 
 <big>**Forschungsinteressen:**</big>
+- KI-basierte Feedbacksysteme
+- KI in der Bildung
+- Virtual Reality 
