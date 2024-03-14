@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Prof. Dr. Hans Pant
+title: Prof. Dr. Hans Anand Pant
 
 # Full Name (for SEO)
-first_name: Hans
+first_name: Hans Anand
 last_name: Pant
 weight_alphanumeric: 2
 
