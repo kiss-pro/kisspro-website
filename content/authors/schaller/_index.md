@@ -62,7 +62,7 @@ Nils-Jonathan Schaller ist Computerlinguistik am IPN in Kiel. Er befasst sich mi
 
 <big>**Kurz-CV:**</big>
 - seit 2021 Wissenschaftlicher Mitarbeiter am IPN Kiel
-- 2018-2020 Studium der Computerlinguistik an der VU Amsterdam
+- 2018 - 2020 Studium der Computerlinguistik an der VU Amsterdam
 
 <big>**Forschungsinteressen:**</big>
 - Computerlinguistik
