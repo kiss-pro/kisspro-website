@@ -57,10 +57,3 @@ user_groups:
   - IPN - Leibniz-Institut für die Pädagogik der Naturwissenschaften und Mathematik
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.<br>
-
-<big>**Kurz-CV:**</big>
-- ...
-- ...
-
-<big>**Forschungsinteressen:**</big>
