@@ -3,8 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
+# https://kiss-pro.github.io/kisspro-website
 title: KISS-Pro # Website name
-baseURL: 'https://kiss-pro.github.io/kisspro-website/' # Website URL
+baseURL: 'kiss-pro.de/' # Website URL
 
 ############################
 ## LANGUAGE
