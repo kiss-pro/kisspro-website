@@ -58,7 +58,7 @@ user_groups:
   - IPN - Leibniz-Institut für die Pädagogik der Naturwissenschaften und Mathematik
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.<br>
+Ute Mertens ist Postdoktorandin in der Abteilung Erziehungswissenschaft und Pädagogische Psychologie am IPN in Kiel und beschäftigt sich mit dem Einsatz von (generativer) KI in der Bildung. Ihr Forschungsinteresse zielt insbesondere auf den erfolgreichen Einsatz von automatisiertem Feedback in Lehr-Lern-Situationen und fokussiert vor allem auf die Wahrnehmung von und affektiv-motivationale Reaktionen auf Feedbacknachrichten.
 
 <big>**Kurz-CV:**</big>
 - seit 2023: Wissenschaftliche Mitarbeiterin am IPN Kiel (Post-doc)

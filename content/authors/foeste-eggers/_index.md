@@ -59,7 +59,7 @@ user_groups:
   - Stiftung Universität Hildesheim
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. <br>
+Dennis Föste-Eggers ist wissenschaftlicher Mitarbeiter in der Abteilung Angewandte Erziehungswissenschaft an der Universität Hildesheim. Er beschäftigt sich mit dem Einsatz digitaler Technologien in Lehr-Lern-Prozessen: Wie kann beispielsweise automatisiertes Feedback didaktisch zielführend eingesetzt werden, um sowohl fachliche als auch sprachliche Leistungen zu fördern? Welchen hat Effekt der Einsatz entsprechender Technologien auf (bestehende) Bildungsungleichheiten?
 
 <big>**Kurz-CV:**</big>
 - seit 12/2023: Wissenschaftlicher Mitarbeiter an der Universität Hildesheim, Institut für Erziehungswissenschaft, Abteilung Angewandte Erziehungswissenschaft
