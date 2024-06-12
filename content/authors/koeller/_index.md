@@ -11,12 +11,13 @@ weight_alphanumeric: 1
 superuser: false
 
 # Role/position
-role: Example Role
+role: Empirische Bildungsforschung
 
 # Organizations/Affiliations
 organizations:
   - name: IPN - Leibniz-Institut für die Pädagogik der Naturwissenschaften und Mathematik
-    url: ''
+    url: 'https://www.leibniz-ipn.de/de/das-ipn/ueber-uns/personen/olaf-koller'
+  - name: koeller@leibniz-ipn.de
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include .....
@@ -56,3 +57,18 @@ highlight_name: false
 user_groups:
   - IPN - Leibniz-Institut für die Pädagogik der Naturwissenschaften und Mathematik
 ---
+
+Olaf Köller ist Geschäftsführender Wissenschaftlicher Direktor am IPN in Kiel undProfessor für Empirische Bildungsforschung an der Universität Kiel. Er beschäftigt sich aktuell mit dem Potenzial von generativer KI für sprachproduktive Leistungen und die Implementation von generativer KI in den schulischen Unterricht.
+
+<big>**Kurz-CV:**</big>
+- seit 2009 Geschäftsführender Wissenschaftlicher Direktor am IPN
+- 2004 bis 2009 Gründungsdirektor des Instituts zur Qualitätsentwicklung im Bildungswesen (IQB) an der Humboldt-Universität zu Berlin
+- 2002 bis 2004 Professor für Pädagogische Psychologie an der Universität Erlangen-Nürnberg
+- 1996 bis 2002 wissenschaftlicher Mitarbeiter und Forschungsgruppenleiter (seit 2001) am MPI für Bildungsforschung in Berlin
+- 1991 bis 1996 Doktorand am IPN in Kiel
+
+<big>**Forschungsinteressen:**</big>
+- Large-scale Assessment
+- Motivation und schulisches Lernen
+- Fremdsprachenlernen
+- Nutzung von KI bei sprachproduktiven Leistungen
