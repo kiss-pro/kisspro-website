@@ -16,7 +16,7 @@ publishDate: '2024-07-09T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Diagnostica'
+publication: 'Diagnostica'
 publication_short: ''
 
 abstract:  Adaptive learning applications based on artificial intelligence (AI) offer great potential for the school context. However, it remains unclear how high the level of social acceptance among parents and teachers is for using these systems. This paper presents the development and validation of the questionnaire on parents’ and teachers’ social acceptance of AI-based learning support systems in schools (SAELKIS). We derived the questionnaire from the technology acceptance model, which is available for parents and teachers. A pilot study with teacher students (N = 36) resulted in three economically applicable scales probing perceived usefulness, perceived ease of use, and behavioral intention to use AI-based adaptive learning tools. We tested the factorial and criterion validity of the questionnaire for 223 parents and 141 teachers. Structural equation modelling (SEM) confirmed the hypothesized factor structure for the parents. After removing one item, SEM also supported the expected model structure for the teachers. All scales demonstrated good internal consistencies, and two items related to the constructs showed high criterion validity.
