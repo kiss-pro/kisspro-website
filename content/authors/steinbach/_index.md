@@ -58,10 +58,10 @@ user_groups:
   - IPN - Leibniz-Institut für die Pädagogik der Naturwissenschaften und Mathematik
 ---
 
-Marlene Steinbach konzentriert sie sich auf die Analyse und Auswirkungen von auf künstlicher Intelligenz basierendem Feedback. BIhr Forschungsinteresse bezieht sich vor allem auf die spezifischen Eigenschaften dieses Feedbacks und dessen Einfluss auf Lernen und Motivation von Schülerinnen und Schülern im Sprachunterricht. <br>
+Marlene Steinbach konzentriert sie sich auf die Analyse und Auswirkungen von auf künstlicher Intelligenz basierendem Feedback. Ihr Forschungsinteresse bezieht sich vor allem auf die spezifischen Eigenschaften dieses Feedbacks und dessen Einfluss auf Lernen und Motivation von Schülerinnen und Schülern im Sprachunterricht. <br>
 
 <big>**Kurz-CV:**</big>
-- seit Mai 2023: Wissenschaftliche Mitarbeiterin und Doktorandin am IPN Kiel 
+- seit Mai 2023: Wissenschaftliche Mitarbeiterin und Doktorandin am IPN Kiel
 - 2016-2022: Studium in Psychologie an der CAU Kiel, Schwerpunkt Klinische Psychologie
 
 <big>**Forschungsinteressen:**</big>

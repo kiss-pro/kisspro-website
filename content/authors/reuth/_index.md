@@ -61,7 +61,7 @@ Felix Reuth ist wissenschaftlicher Mitarbeiter am Lehrstuhl für schulbezogene M
 
 <big>**Kurz-CV:**</big>
 - seit August 2023: wissenschaftlicher Mitarbeiter an der Universität Potsdam am Lehrstuhl für schulbezogene Medienbildung
-- Lehramtsstudium für die Sek. II in English und Geschichte
+- Lehramtsstudium für die Sek. II in Englisch und Geschichte
 
 <big>**Forschungsinteressen:**</big>
 - KI-basierte Feedbacksysteme

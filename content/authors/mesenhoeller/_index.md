@@ -61,13 +61,13 @@ user_groups:
 Janne Mesenhöller ist wissenschaftliche Mitarbeitende im Department Inklusionspädagogik im Bereich Sprache und promoviert dort zum Thema "Potenziale und Grenzen der Nutzung von KI im Schulkontext". Fokus der Promotion sind insbesondere ethische, rechtliche und soziale Herausforderungen, die sich durch die Nutzung von KI-basierten Systemen beim Lehren und Lernen ergeben. <br>
 
 <big>**Kurz-CV:**</big>
-- Seit 03/2021: wissenschaftliche Mitarbeitende am Department für Inklusionspädagogik im Bereich Sprache, Universität Potsdam (2021-2024 im Forschungsprojekt AKILAS (Adaptiver KI-Lern-Assistent im schulischen Kontext), seit 06/2023 KISS-Pro)
+- Seit 03/2021: wissenschaftliche Mitarbeitende am Department für Inklusionspädagogik mit dem Schwerpunkt Sprache, Universität Potsdam (2021-2024 im Forschungsprojekt AKILAS (Adaptiver KI-Lern-Assistent im schulischen Kontext), seit 06/2023 KISS-Pro)
 - 2018: Weiterbildungsförderung durch den Berufsverband Deutscher Psychologinnen und Psychologen
 - 2017 – 2020: Masterstudium in Psychologie an der Universität Potsdam, Schwerpunkt Klinische Psychologie, Beratungspsychologie und Psychotherapie
 - 2014 – 2017 Bachelorstudium in Psychologie an der Ruhr Universität Bochum, Schwerpunkt Kognitive Neurowissenschaft
 
 <big>**Forschungsinteressen:**</big>
-- Digitales adaptives Lehren und Lerne
+- Digitales adaptives Lehren und Lernen
 - Personalisierte Feedbackvergabe
 - Potenziale und Grenzen der Nutzung KI-basierter Systeme im Kontext Schule
 - ethische, rechtliche und soziale Implikationen von Mensch-Maschine-Interaktion im Schulkontext

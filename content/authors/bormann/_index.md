@@ -61,7 +61,7 @@ user_groups:
 Sarah Bormann ist wissenschaftliche Mitarbeiterin im Arbeitsbereich Inklusionspädagogik im Bereich Sprache an der Universität Potsdam und Koordinatorin im Projekt KISS-Pro. Sie promoviert zum Thema Leichte Sprache im schulischen Kontext. Ihre Forschungsinteressen liegen vor allem im Bereich von Textverständlichkeit und Textentlastungt sowie der Förderung des verstehenden Lesens im inklusiven Schulkontext.  <br>
 
 <big>**Kurz-CV:**</big>
-- seit 2017: Akademische Mitarbeiterin, Inklusionspädagogik, Förderschwerpunkt Sprache, Universität Potsdam
+- seit 2017: Akademische Mitarbeiterin, Inklusionspädagogik mit dem Schwerpunkt Sprache, Universität Potsdam
 - 2016 – 2017: 2. Staatsexamen: Vorbereitungsdienst für das Lehramt Primarstufe/Sek I
 - 2013 – 2015: M.Ed.: Lehramtsstudium für die Sek I/Primarstufe, Universität Potsdam
 - 2009 – 2013: B.Ed.: Lehramtsstudium für die Sek I/Primarstufe, Universität Potsdam

@@ -58,7 +58,7 @@ user_groups:
   - IPN - Leibniz-Institut für die Pädagogik der Naturwissenschaften und Mathematik
 ---
 
-Thorben Jansen ist Postdoktorand und Nachwuchsforschungsgruppenleiterin in der Abteilung Erziehungswissenschaft und Pädagogische Psychologie am IPN in Kiel. Er beschäftigt sich mit dem von künstlicher Intelligenz unterstützten Lehren und Lernen und dessen Auswirkungen auf den Unterricht, den Arbeitsalltag der Lehrkräfte und den Kompetenzerwerb von Schüler:innen. 
+Thorben Jansen ist Postdoktorand und Nachwuchsforschungsgruppenleiter in der Abteilung Erziehungswissenschaft und Pädagogische Psychologie am IPN in Kiel. Er beschäftigt sich mit dem von künstlicher Intelligenz unterstützten Lehren und Lernen und dessen Auswirkungen auf den Unterricht, den Arbeitsalltag der Lehrkräfte und den Kompetenzerwerb von Schüler:innen. 
 
 <big>**Kurz-CV:**</big>
 - seit Juni 2021: Nachwuchsforschungsgruppenleiter am IPN

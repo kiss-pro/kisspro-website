@@ -65,7 +65,7 @@ user_groups:
 Anja Henke ist Doktorandin am Arbeitsbereich Schulpädagogik/Empirische Unterrichtsforschung an der Universität Potsdam. Im Rahmen ihrer Promotion befasst sie sich mit adaptiven Technologien in sozialen Lernsituationen und Emotionen und Motivation im technologiegestütztem Unterricht.<br>
 
 <big>**Kurz-CV:**</big>
-- Seit 2022: Akademische Mitarbeiterin an der Professur für Schulpädagogik, Universität Potsdam"
+- Seit 2022: Akademische Mitarbeiterin an der Professur für Schulpädagogik, Universität Potsdam
 - 2022 - 2023: Akademische Mitarbeiterin im Exzellenzcluster „Science of Intelligence“ (TU Berlin), Universität Potsdam
 - 2021 - 2022: Deutschlandstipendiatin (Potsdamer Universitätsstipendium)
 - 2020 - 2022: Wissenschaftliche Hilfskraft im Exzellenzcluster „Science of Intelligence“(TU Berlin) an der Professur für Schulpädagogik, Universität Potsdam

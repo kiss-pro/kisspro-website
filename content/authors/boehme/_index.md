@@ -58,7 +58,7 @@ user_groups:
   - Universität Potsdam
 ---
 
-Prof. Dr. Katrin Böhme ist Professorin für Inklusionspädagogik im Bereich Sprache an der Universität Potsdam. In Forschung und Lehre beschäftigt sich Frau Böhme mit sprachlichen Aspekten des inklusiven Lernens in heterogenen Lerngruppen. Ihr Fokus liegt hierbei auf sprachlicher Bildung, auf der Planung und Durchführung von Sprachförderung, der sprachlichen Anpassung von Aufgaben und Texten, bspw. durch einfache Sprache sowie die Nutzung digitaler Medien und künstlicher Intelligenz für die inklusive Gestaltung differenzierender Lerngelegenheiten.<br>
+Prof. Dr. Katrin Böhme ist Professorin für Inklusionspädagogik mit dem Schwerpunkt Sprache an der Universität Potsdam. In Forschung und Lehre beschäftigt sich Frau Böhme mit sprachlichen Aspekten des inklusiven Lernens in heterogenen Lerngruppen. Ihr Fokus liegt hierbei auf sprachlicher Bildung, auf der Planung und Durchführung von Sprachförderung, der sprachlichen Anpassung von Aufgaben und Texten, bspw. durch einfache Sprache sowie die Nutzung digitaler Medien und künstlicher Intelligenz für die inklusive Gestaltung differenzierender Lerngelegenheiten.<br>
 
 <big>**Kurz-CV:**</big>
 - seit 2017: Professur für Inklusionspädagogik - Förderschwerpunkt Sprache, Universität Potsdam
