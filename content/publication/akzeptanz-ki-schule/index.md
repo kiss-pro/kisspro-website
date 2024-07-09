@@ -1,5 +1,5 @@
 ---
-title: 'Validierung des Onlinefragebogens zur sozialen Akzeptanz von Eltern und Lehrkräften gegenüber Künstlicher Intelligenz in der Schule(SAELKIS) und Überprüfung der Faktorstruktur'
+title: 'Validierung des Onlinefragebogens zur sozialen Akzeptanz von Eltern und Lehrkräften gegenüber Künstlicher Intelligenz in der Schule (SAELKIS) und Überprüfung der Faktorstruktur'
 authors:
   - Janne Mesenhöller
   - Katrin Böhme
