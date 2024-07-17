@@ -58,7 +58,7 @@ user_groups:
   - IPN - Leibniz-Institut für die Pädagogik der Naturwissenschaften und Mathematik
 ---
 
-Olaf Köller ist Geschäftsführender Wissenschaftlicher Direktor am IPN in Kiel undProfessor für Empirische Bildungsforschung an der Universität Kiel. Er beschäftigt sich aktuell mit dem Potenzial von generativer KI für sprachproduktive Leistungen und die Implementation von generativer KI in den schulischen Unterricht.
+Olaf Köller ist Geschäftsführender Wissenschaftlicher Direktor am IPN in Kiel und Professor für Empirische Bildungsforschung an der Universität Kiel. Er beschäftigt sich aktuell mit dem Potenzial von generativer KI für sprachproduktive Leistungen und mit der Implementation von generativer KI in den schulischen Unterricht.
 
 <big>**Kurz-CV:**</big>
 - seit 2009 Geschäftsführender Wissenschaftlicher Direktor am IPN
