@@ -23,8 +23,8 @@ organizations:
 bio: My research interests include...
 
 #interests:
-  - Computerlinguistik in Bildung
-  - KI in Bildung
+#  - Computerlinguistik in Bildung
+#  - KI in Bildung
 
 
 # Social/Academic Networking
