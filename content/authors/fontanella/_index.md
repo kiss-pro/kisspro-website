@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Vitor L. L. Fontanella
+title: Vitor Fontanella
 
 # Full Name (for SEO)
 first_name: Vitor
@@ -16,11 +16,11 @@ role: Computerlinguistik
 # Organizations/Affiliations
 organizations:
   - name: FernUniversität in Hagen
-   # url: 'https://www.fernuni-hagen.de/forschung/schwerpunkte/catalpa/ueber-catalpa/personen/jeanette.bewersdorff.shtml'
+    url: 'https://www.fernuni-hagen.de/forschung/schwerpunkte/catalpa/ueber-catalpa/personen/jeanette.bewersdorff.shtml'
   - name: vitor.fontanella@fernuni-hagen.de
 
 # Short bio (displayed in user profile at end of posts)
-#bio: My research interests include natural language programming, artificial intelligence and data visualization.
+bio: My research interests include...
 
 #interests:
   - Computerlinguistik in Bildung
