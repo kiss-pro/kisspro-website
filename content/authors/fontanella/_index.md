@@ -62,11 +62,11 @@ user_groups:
   - FernUniversität in Hagen
 ---
 
-Vitor Fontanella ist wissenschaftliche Mitarbeiter in CATALPA (Center of Advanced Technology for Assisted Learning and Predictive Analytics) im Bereich Computerlinguistik. Vitor untersucht KI basiert Feedback systems für das Schreiben von Argumentative Texten in der Schule. <br>
+Vitor Fontanella ist wissenschaftlicher Mitarbeiter in CATALPA (Center of Advanced Technology for Assisted Learning and Predictive Analytics) im Bereich Computerlinguistik. Vitor untersucht KI-basiert Feedbacksystemen für das Schreiben von Argumentative Texten in der Schule. <br>
 
 <big>**Kurz-CV:**</big>
 - seit 2024: Wissenschaftliche Mitarbeiter an der FernUniversität Hagen in der Forschungsprofessur Computerlinguistik
-- 2020 bis 2024: Teilnahme am Projekt LernMint an der Hochschule Hannover und Leibniz UNiversität Hannover mit dem Thema Automatische Evaluierung von Fachsprache in MINT-Fächer
+- 2020 bis 2024: Teilnahme am Projekt LernMint an der Hochschule Hannover und Leibniz Universität Hannover mit dem Thema Automatische Evaluierung von Fachsprache in MINT-Fächer
 - 2020: M.Sc. in Wissenschaftsphilosophie an der Leibniz Universität Hannover
 - 2010: B.Sc. in Physik an der Universität Campinas (Brasilien)
 
