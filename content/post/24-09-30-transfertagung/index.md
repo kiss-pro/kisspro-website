@@ -1,5 +1,5 @@
 ---
-title: Transfertagung am 30. Sptember bis 02. Oktober 2024
+title: Transfertagung am 30. September bis 02. Oktober 2024
 date: 2024-09-30
 ---
 Vom 30.09. bis 02.10. fand auf dem Campus Griebnitzsee der Universität Potsdam die erste Tagung des Kompetenzverbunds lernen:digital unter der Überschrift „Digitale Transformation von Schule und Lehrkräftebildung gestalten“ statt. Unser Verbund konnte sich in unterschiedlichen Formaten an der Tagung beteiligen. So wurden im Rahmen von KISS-Pro zwei Symposia gestaltet, die unterschiedliche thematische Schwerpunkte setzten und zentrale Aspekte der digitalen Transformation im Bildungsbereich adressierten. Janne Mesenhöller leitete am ersten Tagungstag ein Symposium mit dem Thema "Die Zukunft des Lernens: Ethische, rechtliche und soziale Implikationen bei der Nutzung von KI-basierten Systemen im Bildungskontext". In diesem Rahmen wurden die Chancen und Herausforderungen des Einsatzes künstlicher Intelligenz in der Bildung aus verschiedenen Perspektiven diskutiert, wobei insbesondere ethische Fragestellungen im Vordergrund standen.
