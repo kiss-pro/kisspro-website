@@ -22,7 +22,7 @@ main:
     url: /conference/
     weight: 41
   - name: Call for papers
-  parent: conference
+    parent: conference
     url: /conference/callforpapers
     weight: 42
   - name: Publikationen
