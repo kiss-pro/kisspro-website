@@ -13,9 +13,18 @@ main:
   - name: News
     url: post
     weight: 30
-  #- name: Events
-  #  url: event
-  #  weight: 40
+  - name: Tagung
+    weight: 40
+    identifier: conference
+    hasChildren: true
+  - name: KI in die Lehrkräftebildung
+    parent: conference
+    url: /conference/
+    weight: 41
+  - name: Call for papers
+  parent: conference
+    url: /conference/callforpapers
+    weight: 42
   - name: Publikationen
     url: publication
     weight: 50
