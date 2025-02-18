@@ -7,6 +7,18 @@ type: landing
 # Your landing page sections - add as many different content blocks as you like
 sections:
   - block: markdown
+    id: logos
+    content:
+        title: ''
+        subtitle: ''
+        text: |
+          <div style="text-align: center;">
+            <img src="/assets/media/logo_small.png" alt="kisspro" style="height:80px; margin-right:20px;">
+            <img src="assets/media/potsdam.jpeg" alt="potsdam" style="height:80px; margin-right:20px;">
+            <img src="assets/media/kompetenzverbund.png" alt="komptenzverbund" style="height:80px;">
+          </div>
+
+  - block: markdown
     id: section-0
     content:
       title: Call for Papers
