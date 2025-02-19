@@ -19,12 +19,4 @@ sections:
         Auch den Wünschen und Bedürfnissen von Seminarleitungen und Akteur:innen aus der Praxis soll im Rahmen der Transfertagung Raum gegeben werden. Welche Anforderungen und Erwartungen haben diese hinsichtlich der Nutzung künstlicher Intelligenz in Schule und Unterricht an die Lehrkräftebildung? Welche KI-bezogenen Lehrkonzepte sind aus der Praxis heraus notwendig? <br><br> 
         Ergänzend werden auf der Transfertagung auch bildungspolitische und bildungsadministrative Impulse berücksichtigt, die die aktuelle Situation an Schulen beleuchten:Wie steht es um die Ausstattung mit technischer Infrastruktur, die den Einsatz von KI-Tools ermöglicht? Wo muss die Lehrkräftebildung konkret ansetzen, um den Gegebenheiten in der Praxis gerecht zu werden?<br><br> 
         Im Rahmen der Tagung sind verschiedene Austauschformate geplant, bspw. eingeladene Vorträge zu zentralen Themen, Vorträge in thematischen Sessions, aber auch Diskussionsrunden/ Round Tables sowie Workshops. Kurze Präsentationsformate von EdTech-Firmen runden das Tagungsprogramm ab, um den Teilnehmenden die Möglichkeit zu geben, sich über aktuelle technische Entwicklungen zu informieren und neue Tools kennenzulernen. </p>
-
-  - block: markdown
-    id: 
-    content:
-      title: 
-      subtitle: 
-      text: <p align="center"></p>
-
 ---
