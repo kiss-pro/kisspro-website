@@ -21,10 +21,10 @@ main:
     parent: conference
     url: /conference/
     weight: 41
-  - name: Call for papers
-    parent: conference
-    url: /conference/callforpapers
-    weight: 42
+  # - name: Call for papers
+  #   parent: conference
+  #   url: /conference/callforpapers
+  #   weight: 42
   - name: Publikationen
     url: publication
     weight: 50
