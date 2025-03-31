@@ -9,8 +9,9 @@ sections:
   - block: markdown
     id: section-0
     content:
-      title: Der Projektverbund KISS-Pro lädt ein zur Tagung zum Thema
-      subtitle: <a href="https://www.uni-potsdam.de/de/medienbildung/transfer-1/kiss-pro-tagung">Künstliche Intelligenz in der Lehrkräftebildung </a> <br> 16. & 17. September 2025 <br> Universität Potsdam, Campus Am Neuen Palais, Haus 9
+      subtitle: Der Projektverbund KISS-Pro lädt ein zur Tagung zum Thema
+      title: <a href="https://www.uni-potsdam.de/de/medienbildung/transfer-1/kiss-pro-tagung">Künstliche Intelligenz in der Lehrkräftebildung </a>
+      subtitle: 16. & 17. September 2025 <br> Universität Potsdam, Campus Am Neuen Palais, Haus 9
       
       text: |
         <p align="justify"> Das zentrale Thema der geplanten <a href="https://www.uni-potsdam.de/de/medienbildung/transfer-1/kiss-pro-tagung">  Transfertagung ist die Einbindung Künstlicher Intelligenz (KI) in die universitäre Ausbildung zukünftiger Lehrkräfte </a>. Aufgrund seiner enormen gesellschaftlichen Prominenz und schulischen Relevanz wird das Thema KI dabei bewusst als spezifischer Aspekt aller Teilbereiche der Lehrkräftebildung herausgegriffen. <br><br>

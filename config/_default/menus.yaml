@@ -13,7 +13,7 @@ main:
   - name: News
     url: post
     weight: 30
-  - name: Tagungc
+  - name: Tagung
     weight: 40
     identifier: conference
     hasChildren: true
