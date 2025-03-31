@@ -7,7 +7,7 @@ view: compact
 # Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: ''
-  image: 'assets/media/banner.png'
+  image: 'images/banner.png'
 
 sections:
   - block: markdown

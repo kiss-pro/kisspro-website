@@ -11,7 +11,7 @@ sections:
       text:
         <p align="center">
         <a href="https://www.uni-potsdam.de/de/medienbildung/transfer-1/kiss-pro-tagung">
-        <img src="images/banner.png" width="50%"/></a>
+        <img src="images/banner.png" width="75%"/></a>
         </p>
         
         <p align="justify"> Der Projektverbund KISS-Pro lädt Wissenschaftler:innen des Kompetenzverbunds lernen:digital, Lehrkräftebildner:innen und Akteur:innen der zweiten und dritten Phase der Lehrkräftebildung herzlich zur <a href="https://www.uni-potsdam.de/de/medienbildung/transfer-1/kiss-pro-tagung"> Tagung „Künstliche Intelligenz in der Lehrkräftebildung“</a> ein. Im Rahmen von Vorträgen, Workshops und Diskussionsrunden bietet die Tagung eine Plattform, um innovative Lehrkonzepte, KI-Tools und praxisorientierte Ansätze zu diskutieren, die künftige Lehrkräfte auf einen kompetenten und lernförderlichen Einsatz von KI-Tools für die Gestaltung von Schule und Unterricht vorbereiten. Weitere Informationen und einen Call for Papers finden Sie unter dem Reiter „Tagung KI in der Lehrkräftebildung“.</p>
