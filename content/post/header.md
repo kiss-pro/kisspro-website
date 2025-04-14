@@ -1,6 +1,6 @@
 ---
 title: Tagung <a href="https://www.uni-potsdam.de/de/medienbildung/transfer-1/kiss-pro-tagung"> „Künstliche Intelligenz in der Lehrkräftebildung“</a> <br> 16. & 17. September 2025 <br> Universität Potsdam, Neues Palais, Haus 9
-weight:1
+weight: 1
 ---
 <p align="center">
 <a href="https://www.uni-potsdam.de/de/medienbildung/transfer-1/kiss-pro-tagung">
